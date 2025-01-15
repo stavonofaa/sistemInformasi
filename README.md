@@ -1,4 +1,4 @@
-# Presensi Siswa SMAN 1 CIKARANG TIMUR
+# sistem informasi Siswa SMAN 1 CIKARANG TIMUR
 
 ## Daftar Isi
 - [Tentang](#tentang)
