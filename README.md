@@ -49,24 +49,24 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
    Username : admin@gmail.com
    password : admin
    
-   halaman admin:
-   ![Alt text](img/halamanAdmin.png)
+   halaman dashboard:
+   ![Alt text](img/halamandashboard.png)
 
-   Pada Menu admin anda dapat mengelola data umum, jadwal mengajar, data guru, dan data siswa
+   Pada halaman dashboard dapat menampilkan semua menu dan sub-menu
 
-   Halaman guru:
-   ![Alt text](img/halamanGuru.png)
-   Pada halaman Guru anda dapat melakukan presensi kepada siswa dan melakukan rekap persemester
+   Halaman data siswa:
+   ![Alt text](img/halamandatasiswa.png)
+   Pada halaman data siswa terdapat nama dan keterangan tentang siswa
 
-   Halaman guru:
-   ![Alt text](img/halamanSiswa.png)
-   Pada halaman Siswa anda dapat melihat daftar kehadiran siswa
+   Halaman Login:
+   ![Alt text](img/halamanLogin.png)
+   Pada halaman Login siswa memasukan username dan password
    
 ## Kontak
 
-Irfan Fadlurrahman - [@irnn_24](https://twitter.com/TwitterHandle) - irfanfadhlurrahman240703@gmail.com
+Irfan Fadlurrahman - [@irfnn_24](https://twitter.com/TwitterHandle) - irfanfadhlurrahman240703@gmail.com
 
 Demo aplikasi: 
-- [Presensi BK2 Admin](https://irfansman1tryhard.000webhostapp.com/admin)
-- [Presensi BK2 Guru/Siswa](https://irfansman1tryhard.000webhostapp.com/)
+- [Admin](https://irfansman1tryhard.000webhostapp.com/admin)
+- [Guru/Siswa](https://irfansman1tryhard.000webhostapp.com/)
 
